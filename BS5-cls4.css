@@ -1,0 +1,12 @@
+.row{
+    margin-bottom: 20px;
+}
+.row div div{
+    background-color: antiquewhite;
+    border: 3px solid black;
+    padding: 10px;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+}
